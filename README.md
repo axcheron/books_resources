@@ -2,7 +2,7 @@
 
 Codes and resources from some books I read.
 
-## Books and Original Resources
+## Original Resources
 
 - [Gray Hat Python](https://nostarch.com/ghpython.htm)
 - [Hacking: The Art of Exploitation, 2nd Edition](https://nostarch.com/hacking2.htm)
