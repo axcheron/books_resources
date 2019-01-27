@@ -1,6 +1,6 @@
 # Books Resources
 
-Codes and resources from some books I read.
+Codes and resources from some books I've read.
 
 ## Original Resources
 
@@ -11,3 +11,4 @@ Codes and resources from some books I read.
 - [Black Hat Python](https://nostarch.com/blackhatpython)
 - [The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition](https://www.wiley.com/en-us/The+Shellcoder%27s+Handbook%3A+Discovering+and+Exploiting+Security+Holes%2C+2nd+Edition-p-9780470080238)
 - [Violent Python](http://booksite.elsevier.com/9781597499576/chapters.php)
+- [Cracking Codes with Python](https://nostarch.com/crackingcodes)
